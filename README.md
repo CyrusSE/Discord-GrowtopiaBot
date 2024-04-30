@@ -4,7 +4,7 @@ Welcome to the GitHub repository for the Discord-GrowtopiaBot! This project is a
 
 ## Project Journey
 
-I started on this project on 2021, with no knowledge of coding or programming languages. Don't judge me for the bad/terrible code, at that time there was no AI bot that helping me solving problems, so i only read Stack Overflow for the errors. Python is first programming language, was both a challenge and a fun to learn. After countless hours of coding, debugging, and learning from Stack Overflow, the project reached its end on June 13, 2023.
+I started this project on 2021, with no knowledge of coding or programming languages. This was my first and biggest project, and don't judge me for the bad/terrible code, at that time there was no AI bot that helping me solving problems, so i only read Stack Overflow for the errors. Python is first programming language, was both a challenge and a fun to learn. After countless hours of coding, debugging, and learning from Stack Overflow, the project reached its end on June 13, 2023.
 
 This project was not just about coding. It was about overcoming challenges, learning the programming logic, problem-solving, and much more. It was a journey filled with errors, all of which contributed to my growth as a developer.
 
