@@ -1,0 +1,1 @@
+# Some test script i use before releasing to main bot.

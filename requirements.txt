@@ -1,0 +1,4 @@
+patool==1.12
+discord.py==2.3.2
+beautifulsoup4==4.9.3
+fuzzywuzzy==0.18.0
